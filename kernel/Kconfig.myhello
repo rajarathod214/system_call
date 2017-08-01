@@ -1,0 +1,5 @@
+config MYHELLO
+	bool "print my hello is running"
+	default y
+	help
+		This is print my hello is running

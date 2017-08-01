@@ -908,3 +908,4 @@ asmlinkage long sys_statx(int dfd, const char __user *path, unsigned flags,
 
 #endif
 
+asmlinkage int sys_myhello(void);
